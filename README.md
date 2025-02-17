@@ -19,13 +19,16 @@ I'm passionate about crafting elegant solutions to complex problems and contribu
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryan-pienaar&show_icons=true&theme=radical" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-pienaar&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-pienaar&layout=compact&theme=radical" />
 </div>
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/ryan-pienaar/)
-- [Twitter](https://x.com/paprikadev)
-- [Personal Website](https://ryanpienaar.dev)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 🎯 Goals for 2025
 
